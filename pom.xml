@@ -744,7 +744,7 @@
             <dependency>
                 <groupId>io.trino.hive</groupId>
                 <artifactId>hive-apache</artifactId>
-                <version>3.1.2-20</version>
+                <version>3.1.2-9</version>
             </dependency>
 
             <dependency>
