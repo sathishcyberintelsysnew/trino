@@ -95,7 +95,7 @@ typing-extensions==4.3.0
     # via myst-parser
 unidecode==1.1.1
     # via python-slugify
-urllib3==1.25.8
+urllib3==1.26.18
     # via requests
 zipp==3.8.1
     # via importlib-metadata
